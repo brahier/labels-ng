@@ -1,0 +1,9 @@
+#!/bin/bash
+
+rm env.*.log
+rm env.*.aux
+rm env.*.pdf
+rm env.*.out
+rm env.*.tex
+rm *~
+rm thumb*.png
